@@ -1,5 +1,5 @@
 # SAMPLE READ ME	
 
-this is sample read-me me file
+this is sample readMe-VeryBad file
 
 new file-is this time for diff
